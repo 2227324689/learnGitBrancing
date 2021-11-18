@@ -4,10 +4,10 @@ yarn-error.log
 node_modules/
 
 # Build artifacts and asset stuff
-build/*
-screens
-FontAwesome-Vectors.pdf
-index.html
+#build/*
+#screens
+#FontAwesome-Vectors.pdf
+#index.html
 
 # Vim swaps
 *.sw*
@@ -40,12 +40,12 @@ UserInterfaceState.xcuserstate
 
 .User.xcconfig
 
-Tools/xctool/build
-Tools/clang/analyzer/build
-Tools/clang/libtooling/build
-Tools/clang/clang-ocaml/build
-Tools/clang/xcode
-VendorLib/Breakpad/src/tools/mac/dump_syms/build
-DerivedData
-VendorLib/clang/lib/arc
-VendorLib/clang/lib/c++
+#Tools/xctool/build
+#Tools/clang/analyzer/build
+#Tools/clang/libtooling/build
+#Tools/clang/clang-ocaml/build
+#Tools/clang/xcode
+#VendorLib/Breakpad/src/tools/mac/dump_syms/build
+#DerivedData
+#VendorLib/clang/lib/arc
+#VendorLib/clang/lib/c++
